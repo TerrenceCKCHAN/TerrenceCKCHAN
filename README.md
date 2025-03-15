@@ -1,8 +1,8 @@
 # 🚴 Terrence Chan
 
-**`Software Developer (Full-Stack / AI / ML / Blockchain)`**
+**`Software Developer (Full-Stack / Python / AI / ML / Blockchain)`**
 
-I'm a full-stack developer with experience in building enterprise Java microservices, real-time Kafka systems, and React front-end applications. I am also an AI/ML enthusiast and have published a machine learning paper in the MDPI Land journal: ["Satellite-Based Carbon Estimation in Scotland: AGB and SOC"](https://www.mdpi.com/2073-445X/12/4/818).
+I'm a full-stack developer with experience in building enterprise Java microservices, real-time Kafka systems, React.js front end with TypeScript and data analytics in Python. I am also an AI/ML enthusiast and have published a machine learning paper in the MDPI Land journal: ["Satellite-Based Carbon Estimation in Scotland: AGB and SOC"](https://www.mdpi.com/2073-445X/12/4/818).
 
 ---
 
